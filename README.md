@@ -73,6 +73,4 @@ GCDObjC is an Objective-C wrapper for the most commonly used features of Grand C
 
 Jazz Hands is a simple keyframe-based animation framework for UIKit. Animations can be controlled via gestures, scroll views, KVO, or ReactiveCocoa.
 
-![Jazz Hands](./Example/Docs/jazzhands-demo.gif)
-
 Jazz Hands is used extensively in [IF and DO by IFTTT for iPhone and iPad](https://ifttt.com/products), most famously in the app intro.
