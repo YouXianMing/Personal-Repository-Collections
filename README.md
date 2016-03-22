@@ -45,3 +45,8 @@ Works on iPhone and iPad.
 </div>
 
 ![](https://github.com/autresphere/ASMediaFocusManager/raw/master/Screenshots/video.gif) 
+
+
+> ### [SKBounceAnimation](https://github.com/khanlou/SKBounceAnimation)
+
+SKBounceAnimation is a CAKeyframeAnimation subclass that creates an animation for you based on start and end values and a number of bounces. It’s based on the math and technology in this blogpost: khanlou.com/2012/01/cakeyframeanimation-make-it-bounce/ which in turn was based partially on Matt Gallagher’s work here: cocoawithlove.com/2008/09/parametric-acceleration-curves-in-core.html.
