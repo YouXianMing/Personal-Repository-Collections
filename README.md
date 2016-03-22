@@ -84,3 +84,9 @@ This is a singleton class to gather all available information about a device.  I
   * Running Processes
   * Memory Usage
   * And a complete UDID replacement based on unchanging device information.
+
+> ### [FBDigitalFont](https://github.com/lyokato/FBDigitalFont)
+
+![Example](http://static.squarespace.com/static/51c2c539e4b032aad7050f2e/t/529405dee4b006d90611f81b/1385432543354/fonts_iphone.png?format=750w "DigitalFontExample")
+
+This library includes some kind of digital styled font drawer. They're not TTF files or something. They just draw fonts with CoreGraphics. So, you don't need to worry about redistribution license of font files when you release your application.
