@@ -32,7 +32,7 @@ Shimmer was originally developed to show loading status in [Paper](http://facebo
 Pop is an extensible animation engine for iOS, tvOS, and OS X. In addition to basic static animations, it supports spring and decay dynamic animations, making it useful for building realistic, physics-based interactions. The API allows quick integration with existing Objective-C codebases and enables the animation of any property on any object. It's a mature and well-tested framework that drives all the animations and transitions in [Paper](http://www.facebook.com/paper).
 
 
-> ### ASMediaFocusManager
+> ### [ASMediaFocusManager](https://github.com/autresphere/ASMediaFocusManager)
 
 ASMediaFocusManager gives the ability to focus on any thumbnail image or video by a simple tap. The thumbnail image is automatically animated to a focused fullscreen image view or video player. Another tap on the 'Done' button shrinks (or defocuses) the image back to its initial position.
 
