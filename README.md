@@ -24,3 +24,8 @@ Shimmer is an easy way to add a shimmering effect to any view in your app. It's 
 Shimmer was originally developed to show loading status in [Paper](http://facebook.com/paper).
 
 ![Shimmer](https://github.com/facebook/Shimmer/blob/master/shimmer.gif?raw=true)
+
+
+![pop](https://github.com/facebook/pop/blob/master/Images/pop.gif?raw=true)
+
+Pop is an extensible animation engine for iOS, tvOS, and OS X. In addition to basic static animations, it supports spring and decay dynamic animations, making it useful for building realistic, physics-based interactions. The API allows quick integration with existing Objective-C codebases and enables the animation of any property on any object. It's a mature and well-tested framework that drives all the animations and transitions in [Paper](http://www.facebook.com/paper).
