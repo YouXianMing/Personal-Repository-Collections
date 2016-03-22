@@ -67,8 +67,6 @@ GCDObjC is an Objective-C wrapper for the most commonly used features of Grand C
 
 [![Open Source at IFTTT](http://ifttt.github.io/images/open-source-ifttt.svg)](http://ifttt.github.io)
 
-![Jazz Hands](./Example/Docs/jazzhands_banner.jpg)
-
 [![CocoaPods Version](https://img.shields.io/cocoapods/v/JazzHands.svg)](http://cocoadocs.org/docsets/JazzHands) [![Build Status](https://travis-ci.org/IFTTT/JazzHands.svg?branch=master)](https://travis-ci.org/IFTTT/JazzHands) [![Coverage Status](https://coveralls.io/repos/IFTTT/JazzHands/badge.svg)](https://coveralls.io/r/IFTTT/JazzHands)
 
 Jazz Hands is a simple keyframe-based animation framework for UIKit. Animations can be controlled via gestures, scroll views, KVO, or ReactiveCocoa.
@@ -77,13 +75,6 @@ Jazz Hands is used extensively in [IF and DO by IFTTT for iPhone and iPad](https
 
 
 > ### [iOS-System-Services](https://github.com/Shmoopi/iOS-System-Services)
-===================
-
-<p align="center" >
-
-<img src="./Sample Images/Screenshot1.png" alt="System Services Memory Screenshot" title="Memory Information">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Sample Images/Screenshot2.png" alt="System Services Disk Screenshot" title="Disk Information">
-
-</p>
 
 This is a singleton class to gather all available information about a device.  It gives you over 75 methods to determine everything about a device, including: 
   * Hardware & Network Information
