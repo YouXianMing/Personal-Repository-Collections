@@ -15,3 +15,12 @@ A curated list of awesome iOS frameworks, libraries, tutorials, plugins Xcode, c
 The list is divided into categories such as Frameworks, Components, Testing and others,  open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md).
 
 Projects in Swift language will be marked with :large_orange_diamond: and :watch: for Apple Watch projects. Feel free to add your project.
+
+
+### [Shimmer](https://github.com/facebook/Shimmer)
+
+Shimmer is an easy way to add a shimmering effect to any view in your app. It's useful as an unobtrusive loading indicator.
+
+Shimmer was originally developed to show loading status in [Paper](http://facebook.com/paper).
+
+![Shimmer](https://github.com/facebook/Shimmer/blob/master/shimmer.gif?raw=true)
