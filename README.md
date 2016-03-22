@@ -62,3 +62,17 @@ GCDObjC is an Objective-C wrapper for the most commonly used features of Grand C
 * Add convenience methods.
 
 **A Swift port is at [GCDSwift](https://github.com/mjmsmith/gcdswift).**
+
+> ###[Jazz Hands](https://github.com/IFTTT/JazzHands)
+
+[![Open Source at IFTTT](http://ifttt.github.io/images/open-source-ifttt.svg)](http://ifttt.github.io)
+
+![Jazz Hands](./Example/Docs/jazzhands_banner.jpg)
+
+[![CocoaPods Version](https://img.shields.io/cocoapods/v/JazzHands.svg)](http://cocoadocs.org/docsets/JazzHands) [![Build Status](https://travis-ci.org/IFTTT/JazzHands.svg?branch=master)](https://travis-ci.org/IFTTT/JazzHands) [![Coverage Status](https://coveralls.io/repos/IFTTT/JazzHands/badge.svg)](https://coveralls.io/r/IFTTT/JazzHands)
+
+Jazz Hands is a simple keyframe-based animation framework for UIKit. Animations can be controlled via gestures, scroll views, KVO, or ReactiveCocoa.
+
+![Jazz Hands](./Example/Docs/jazzhands-demo.gif)
+
+Jazz Hands is used extensively in [IF and DO by IFTTT for iPhone and iPad](https://ifttt.com/products), most famously in the app intro.
