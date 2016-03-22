@@ -7,7 +7,7 @@ DGActivityIndicatorView is a great way to make loading spinners in your applicat
 ![alt tag](https://raw.githubusercontent.com/gontovnik/DGActivityIndicatorView/master/DGActivityIndicatorView.gif)
 
 
-###[awesome-ios](https://github.com/vsouza/awesome-ios)
+###[Awesome-iOS](https://github.com/vsouza/awesome-ios)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
