@@ -1,13 +1,13 @@
 # Personal-Repository-Collections
 
-### [DGActivityIndicatorView](https://github.com/YouXianMing/DGActivityIndicatorView)
+> ### [DGActivityIndicatorView](https://github.com/YouXianMing/DGActivityIndicatorView)
 
 DGActivityIndicatorView is a great way to make loading spinners in your application look nicer. It contains 32 different indicator view styles. Inspired by: http://connoratherton.com/loaders
 
 ![alt tag](https://raw.githubusercontent.com/gontovnik/DGActivityIndicatorView/master/DGActivityIndicatorView.gif)
 
 
-###[Awesome-iOS](https://github.com/vsouza/awesome-ios)
+> ###[Awesome-iOS](https://github.com/vsouza/awesome-ios)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -17,7 +17,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 Projects in Swift language will be marked with :large_orange_diamond: and :watch: for Apple Watch projects. Feel free to add your project.
 
 
-### [Shimmer](https://github.com/facebook/Shimmer)
+> ### [Shimmer](https://github.com/facebook/Shimmer)
 
 Shimmer is an easy way to add a shimmering effect to any view in your app. It's useful as an unobtrusive loading indicator.
 
@@ -25,6 +25,7 @@ Shimmer was originally developed to show loading status in [Paper](http://facebo
 
 ![Shimmer](https://github.com/facebook/Shimmer/blob/master/shimmer.gif?raw=true)
 
+> ###[POP](https://github.com/facebook/pop)
 
 ![pop](https://github.com/facebook/pop/blob/master/Images/pop.gif?raw=true)
 
