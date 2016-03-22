@@ -90,3 +90,13 @@ This is a singleton class to gather all available information about a device.  I
 ![Example](http://static.squarespace.com/static/51c2c539e4b032aad7050f2e/t/529405dee4b006d90611f81b/1385432543354/fonts_iphone.png?format=750w "DigitalFontExample")
 
 This library includes some kind of digital styled font drawer. They're not TTF files or something. They just draw fonts with CoreGraphics. So, you don't need to worry about redistribution license of font files when you release your application.
+
+
+
+![fscalendar](https://cloud.githubusercontent.com/assets/5186464/6655324/213a814a-cb36-11e4-9add-f80515a83291.png)<br/><br/>
+[![Version](https://img.shields.io/cocoapods/v/FSCalendar.svg?style=flat)](http://cocoadocs.org/docsets/FSCalendar)
+[![Platform](https://img.shields.io/badge/platform-iOS%207%2B-blue.svg?style=flat)](http://cocoadocs.org/docsets/FSCalendar)
+[![Swift2 compatible](https://img.shields.io/badge/swift2-compatible-4BC51D.svg?style=flat)](https://developer.apple.com/swift/)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![License](https://img.shields.io/cocoapods/l/FSCalendar.svg?style=flat)](http://cocoadocs.org/docsets/FSCalendar)
+[![Join the chat at https://gitter.im/WenchaoD/FSCalendar](https://badges.gitter.im/WenchaoD/FSCalendar.svg)](https://gitter.im/WenchaoD/FSCalendar?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
