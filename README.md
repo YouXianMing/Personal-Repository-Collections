@@ -50,3 +50,15 @@ Works on iPhone and iPad.
 > ### [SKBounceAnimation](https://github.com/khanlou/SKBounceAnimation)
 
 SKBounceAnimation is a CAKeyframeAnimation subclass that creates an animation for you based on start and end values and a number of bounces. It’s based on the math and technology in this blogpost: khanlou.com/2012/01/cakeyframeanimation-make-it-bounce/ which in turn was based partially on Matt Gallagher’s work here: cocoawithlove.com/2008/09/parametric-acceleration-curves-in-core.html.
+
+
+> ### [GCDObjC](https://github.com/mjmsmith/gcdobjc)
+
+GCDObjC is an Objective-C wrapper for the most commonly used features of Grand Central Dispatch.  It has four main aims:
+
+* Organize the flat C API into appropriate classes.
+* Use intention-revealing names to distinguish between synchronous and asynchronous functions. 
+* Use more convenient arguments such as time intervals.
+* Add convenience methods.
+
+**A Swift port is at [GCDSwift](https://github.com/mjmsmith/gcdswift).**
